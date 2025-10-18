@@ -1,5 +1,5 @@
 # Portfolio – Azhar Khalil
-Final-year CSE student turning ideas into projects.
+_Final-year CSE student turning ideas into projects._
 
 ## Features
 - Fully responsive design (mobile, tablet, desktop)
